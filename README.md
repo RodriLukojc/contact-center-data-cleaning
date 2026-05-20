@@ -35,7 +35,7 @@ Código
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python 3.13  
 - Pandas  
 - Matplotlib  
@@ -44,7 +44,7 @@ Código
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Como ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -66,7 +66,7 @@ Explorar resultados:
 
 Abrir notebooks/eda.ipynb en VS Code o Jupyter.
 
-📈 Resultados esperados
+Resultados esperados
 
 Reducción de registros inválidos y duplicados.
 
@@ -76,9 +76,9 @@ Visualización clara de agentes y resultados.
 
 Comparación cuantitativa entre base original y CLEAN.
 
-👨‍💻 Autor
+Autor
 Rodrigo Lukojc  
 
 
-🧾 Licencia
+Licencia
 Este proyecto se distribuye bajo la licencia MIT.
