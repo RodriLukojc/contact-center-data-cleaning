@@ -1,0 +1,526 @@
+id_cliente,telefono,fecha_contacto,resultado,agente,importe,producto
+001,+54 11 5555 6458,2024-13-04,No contesta,Juan,error,A
+002,11-5555-7810,2024/01/11,Contactado ,Ana,,B
+003,,2024/01/03,Contactado ,Juan,,C
+004,,2024-13-25,Error,Ana,1045,B
+005,+54 11 5555 3380,2024-01-12,No contesta,Pedro,,A
+006,1155558829,2024-01-21,Error,,,B
+007,,2024-01-14,Contactado ,Marcos,error,B
+008,1155553268,2024-13-30,No contesta,,,C
+009,11-5555-4793,2024-13-22,Contactado ,Juan,1082,A
+010,,2024-13-15,Contactado,Lucía,,C
+011,+54 11 5555 6080,2024-01-28,Contactado,Pedro,error,A
+012,,2024-13-30,No contesta,Ana,,B
+013,,2024/01/04,Contactado,Marcos,1083,A
+014,,2024-01-14,No contesta,Pedro,1775,A
+015,11 55551636,08-01-2024,Fuera de servicio,Pedro,,A
+016,,2024-13-09,Contactado,Marcos,,B
+017,11 55551947,30-01-2024,Error,Pedro,,C
+018,,2024-01-25,No contesta,Ana,1758,C
+019,11 55554896,2024-13-09,Error,Juan,1323,B
+020,,2024-01-20,No contesta ,Lucía,error,A
+021,,2024-01-04,Contactado,Marcos,error,A
+022,11-5555-6988,15-01-2024,Fuera de servicio,Pedro,,C
+023,11 55552307,25-01-2024,No contesta,Ana,,C
+024,11-5555-2616,2024/01/14,No contesta ,Marcos,1253,A
+025,+54 11 5555 4652,2024/01/26,Contactado ,Pedro,,B
+026,+54 11 5555 1256,2024-13-30,Contactado ,Lucía,,B
+027,11 55550344,16-01-2024,No contesta,Pedro,,A
+028,11 55556824,2024-01-07,No contesta,Lucía,,A
+029,+54 11 5555 2580,2024-13-06,No contesta,Pedro,,B
+030,+54 11 5555 7626,2024-01-17,No contesta,Lucía,1755,A
+031,,2024-01-01,Contactado,,1746,C
+032,11 55550701,02-01-2024,Error,Lucía,,A
+033,,2024-13-09,Contactado ,Marcos,error,A
+034,,2024/01/20,No contesta ,Pedro,1108,C
+035,,01-01-2024,Error,Pedro,,C
+036,,2024-01-15,No contesta ,Ana,error,B
+037,11-5555-4622,2024/01/13,Fuera de servicio,,,A
+038,11-5555-4435,2024-01-18,No contesta,Lucía,,C
+039,+54 11 5555 3980,2024/01/06,Contactado ,,,B
+040,11-5555-3655,2024/01/28,Contactado ,,1358,A
+041,1155551158,22-01-2024,Contactado,Ana,1486,C
+042,11 55552973,2024/01/27,No contesta ,Juan,1231,C
+043,,2024/01/21,Fuera de servicio,,error,A
+044,,19-01-2024,Fuera de servicio,Juan,1716,A
+045,11-5555-6636,2024-01-16,Fuera de servicio,Pedro,1456,A
+046,,2024-13-24,Error,Marcos,error,C
+047,+54 11 5555 2486,2024-13-08,No contesta,Marcos,1498,B
+048,11-5555-3363,2024-13-29,Contactado ,Juan,1625,A
+049,,2024-01-04,Contactado,Pedro,error,C
+050,+54 11 5555 8434,06-01-2024,Fuera de servicio,Marcos,,A
+051,1155559058,2024-01-12,Contactado,Juan,,C
+052,1155557844,2024-13-07,Error,Ana,,C
+053,,22-01-2024,Contactado ,Marcos,,B
+054,,2024-01-11,No contesta,Lucía,,A
+055,,2024-13-23,Fuera de servicio,,error,A
+056,11 55550755,2024-13-08,Error,Ana,,A
+057,11-5555-7412,2024/01/31,No contesta,Lucía,1107,A
+058,11-5555-5683,2024-13-04,No contesta ,Lucía,1127,C
+059,11-5555-2894,27-01-2024,No contesta,Pedro,,A
+060,,17-01-2024,Error,Juan,1379,A
+061,1155557744,2024-01-02,Error,Pedro,error,C
+062,11 55553623,09-01-2024,No contesta ,,error,A
+063,11 55550120,2024-01-27,Fuera de servicio,,error,B
+064,11-5555-1263,2024/01/10,No contesta ,Pedro,,B
+065,+54 11 5555 7861,2024-13-23,Error,Lucía,error,A
+066,+54 11 5555 1156,2024-13-14,No contesta,Pedro,,A
+067,+54 11 5555 9823,2024-01-03,Error,,error,C
+068,11 55558178,2024-01-06,Contactado ,Marcos,error,C
+069,+54 11 5555 1358,2024-13-16,Contactado,Lucía,,C
+070,+54 11 5555 4627,2024/01/01,Contactado ,,1793,B
+071,,2024/01/23,Contactado,Lucía,error,A
+072,,20-01-2024,Contactado,Marcos,1223,B
+073,11-5555-1037,06-01-2024,Contactado ,Pedro,,A
+074,11 55555716,2024-01-06,Error,Ana,1487,C
+075,11 55554888,2024-13-11,Contactado ,Lucía,,B
+076,,2024-01-02,Fuera de servicio,Ana,,C
+077,,2024/01/30,Error,Marcos,,C
+078,,2024-13-15,Contactado,Marcos,error,B
+079,11-5555-7294,09-01-2024,Fuera de servicio,Ana,error,C
+080,11 55556154,2024/01/13,Contactado ,,,C
+081,11 55553894,2024-01-03,Contactado ,Lucía,1614,B
+082,11 55556478,2024/01/19,Contactado ,Lucía,,B
+083,1155553706,08-01-2024,Error,Juan,,C
+084,1155557804,2024-01-02,No contesta,Juan,1510,A
+085,+54 11 5555 6189,2024-01-06,Contactado,,,A
+086,11-5555-3902,2024-13-12,Fuera de servicio,Ana,,C
+087,11 55552779,25-01-2024,No contesta ,Lucía,1378,B
+088,1155551637,2024-13-26,Fuera de servicio,,error,C
+089,11 55559014,2024-01-04,No contesta,,,B
+090,,2024-13-25,Contactado,Lucía,,C
+091,+54 11 5555 8168,2024/01/31,Contactado ,Ana,error,B
+092,,2024-13-01,Error,Lucía,1323,B
+093,,2024-13-19,Contactado ,Ana,,B
+094,,28-01-2024,Contactado,Juan,1783,A
+095,11 55552853,2024-13-20,Contactado,Pedro,error,C
+096,11-5555-7362,2024/01/12,No contesta ,Juan,,B
+097,1155558393,2024-13-20,Fuera de servicio,,,C
+098,11-5555-4131,2024-13-07,No contesta,Juan,,C
+099,11-5555-9975,2024/01/16,No contesta,Marcos,1837,B
+100,1155553762,26-01-2024,Contactado ,,,B
+101,,14-01-2024,No contesta ,Pedro,1656,A
+102,11-5555-5350,2024-01-13,No contesta,Marcos,1451,B
+103,+54 11 5555 7602,2024-13-02,Error,Pedro,,C
+104,1155555912,24-01-2024,Contactado ,Ana,1801,B
+105,11 55551157,2024/01/15,Error,Juan,,B
+106,11-5555-1379,31-01-2024,Contactado,,1931,B
+107,11-5555-6913,2024-13-20,No contesta ,Lucía,error,B
+108,11 55551058,2024-13-25,No contesta ,,error,B
+109,,2024-01-13,Fuera de servicio,Juan,,A
+110,,2024-01-08,No contesta,Marcos,error,A
+111,11 55553179,2024-01-20,Fuera de servicio,Juan,error,B
+112,+54 11 5555 1420,01-01-2024,Fuera de servicio,Marcos,error,C
+113,1155553364,2024-13-05,No contesta,,1447,B
+114,1155554265,2024-13-11,Contactado,Ana,,B
+115,11-5555-1505,2024-01-16,Fuera de servicio,Ana,1150,B
+116,11-5555-6429,04-01-2024,No contesta ,Juan,error,A
+117,11-5555-9465,2024-01-30,No contesta ,,,C
+118,11 55553043,07-01-2024,Contactado ,Ana,,B
+119,11-5555-9061,2024-13-08,No contesta ,Pedro,,B
+120,11 55553534,05-01-2024,No contesta,Pedro,1950,A
+121,,2024-01-10,No contesta ,Juan,,C
+122,11 55556362,2024-13-29,Error,Juan,error,B
+123,11 55551032,13-01-2024,Error,Marcos,,C
+124,,2024/01/22,Error,Lucía,error,B
+125,11-5555-6893,2024/01/13,No contesta ,Ana,,B
+126,11 55553682,2024/01/20,Fuera de servicio,,error,B
+127,11-5555-6321,2024/01/27,No contesta,Lucía,error,C
+128,11-5555-9454,2024-01-22,Error,Lucía,1837,C
+129,,2024-13-01,No contesta ,Lucía,error,B
+130,+54 11 5555 1452,2024-13-02,Contactado ,Juan,,A
+131,1155559851,2024-01-08,Contactado ,Ana,1597,C
+132,11-5555-3215,2024-01-07,No contesta,Pedro,,B
+133,+54 11 5555 5097,2024-13-18,Fuera de servicio,Juan,,C
+134,11 55551442,2024-13-13,Error,Ana,error,B
+135,,18-01-2024,Error,Ana,1493,B
+136,+54 11 5555 3401,2024/01/09,Fuera de servicio,Juan,,C
+137,1155555249,2024/01/09,No contesta,Ana,error,A
+138,+54 11 5555 4347,18-01-2024,Contactado ,Pedro,,B
+139,11 55551870,2024/01/08,Contactado ,Juan,1770,A
+140,11-5555-5501,15-01-2024,No contesta ,,1242,C
+141,,29-01-2024,Fuera de servicio,Pedro,error,C
+142,11 55551668,10-01-2024,No contesta ,Lucía,error,A
+143,11 55554147,17-01-2024,No contesta,,,A
+144,11-5555-2946,2024/01/23,Contactado,Lucía,error,B
+145,1155559600,2024/01/11,No contesta,Ana,error,B
+146,,2024/01/26,No contesta,,,B
+147,11 55551274,2024/01/06,Contactado,Pedro,error,B
+148,,2024-01-20,Error,Ana,,B
+149,+54 11 5555 1715,2024-13-06,Error,Ana,,C
+150,1155556779,2024/01/27,Fuera de servicio,Marcos,,A
+151,11-5555-6410,2024-13-26,Contactado ,Lucía,error,A
+152,+54 11 5555 2897,28-01-2024,Contactado ,Pedro,error,A
+153,,03-01-2024,Contactado ,Ana,1634,A
+154,1155555854,2024/01/19,Fuera de servicio,Ana,error,B
+155,11 55556367,2024-01-16,No contesta,Pedro,,C
+156,11-5555-2474,2024/01/20,Contactado,Marcos,1972,C
+157,11 55557339,2024/01/27,Error,Ana,error,C
+158,1155557948,2024-13-06,Contactado,Marcos,1969,C
+159,11 55554383,06-01-2024,No contesta,Ana,1553,A
+160,,26-01-2024,No contesta ,Pedro,error,A
+161,+54 11 5555 6855,2024-13-10,Fuera de servicio,,,B
+162,11 55559992,2024-13-08,No contesta,Ana,error,B
+163,1155557910,2024-01-23,Error,Marcos,error,C
+164,11 55554485,2024-01-17,Error,,error,A
+165,11-5555-3863,2024/01/26,No contesta ,,1382,B
+166,11-5555-4655,2024-13-01,Fuera de servicio,Lucía,,C
+167,+54 11 5555 5271,2024-01-20,Contactado ,Marcos,,B
+168,11-5555-6414,2024/01/13,Contactado ,,,C
+169,,2024/01/08,Fuera de servicio,Lucía,,C
+170,11-5555-1100,2024-13-16,Fuera de servicio,Ana,,A
+171,+54 11 5555 4363,2024-13-26,Fuera de servicio,Ana,,A
+172,11-5555-6353,2024-01-26,Contactado ,,1038,A
+173,1155555214,2024-01-27,Contactado,Marcos,,B
+174,,2024/01/20,No contesta,Juan,error,C
+175,11-5555-6917,2024-01-06,No contesta,,1465,B
+176,,2024-01-31,No contesta,Juan,,A
+177,+54 11 5555 2227,2024-01-29,No contesta ,Marcos,error,C
+178,+54 11 5555 6657,2024-01-14,Contactado,,,B
+179,11 55554656,2024/01/04,Contactado ,Ana,,A
+180,11-5555-5091,23-01-2024,Contactado ,Marcos,error,A
+181,+54 11 5555 1844,2024-13-12,Contactado ,Pedro,,B
+182,,30-01-2024,Fuera de servicio,Juan,1911,B
+183,11-5555-2812,2024-01-06,Fuera de servicio,Juan,,B
+184,11-5555-8788,05-01-2024,Contactado,Juan,,C
+185,,2024/01/25,No contesta,Lucía,,B
+186,1155551517,2024/01/02,Error,Lucía,,B
+187,11 55559193,2024-01-08,Contactado,Pedro,1916,B
+188,1155554107,02-01-2024,No contesta ,Lucía,error,A
+189,11 55550659,2024/01/20,Contactado ,Pedro,,B
+190,11 55553385,2024-01-16,No contesta ,Ana,error,B
+191,1155559708,2024-01-06,Fuera de servicio,Juan,1736,B
+192,11 55557184,2024/01/04,No contesta ,,,A
+193,11-5555-3139,2024/01/18,Contactado ,Marcos,1578,B
+194,11-5555-2376,2024-13-29,No contesta ,Juan,error,A
+195,+54 11 5555 3047,2024/01/25,No contesta,Juan,1216,B
+196,+54 11 5555 2169,2024/01/25,No contesta,Pedro,1062,C
+197,11 55559318,13-01-2024,No contesta,Juan,,A
+198,11 55557495,29-01-2024,Contactado,Ana,1958,B
+199,+54 11 5555 4229,2024-01-01,Contactado,Marcos,,C
+200,11-5555-1782,2024-13-23,Contactado,,error,B
+201,1155554999,2024/01/07,Contactado ,Lucía,,C
+202,+54 11 5555 8897,2024-01-01,Contactado ,Juan,1893,A
+203,11 55557395,2024/01/13,Contactado,Marcos,,C
+204,1155558451,2024/01/22,Error,Lucía,,B
+205,11 55556214,2024/01/08,Contactado ,Juan,,B
+206,11 55556078,2024/01/02,No contesta ,Marcos,error,B
+207,,2024-13-31,Error,Juan,1492,C
+208,1155555079,2024-13-01,Contactado,Pedro,,A
+209,+54 11 5555 5785,2024/01/01,No contesta,Lucía,error,B
+210,11 55556154,2024/01/29,No contesta ,Pedro,1954,C
+211,11 55554464,2024/01/21,Error,Pedro,1134,B
+212,,2024-01-27,Error,Lucía,error,C
+213,11 55555487,2024/01/09,Contactado,Juan,,C
+214,1155559550,2024-13-20,Fuera de servicio,Juan,error,C
+215,,11-01-2024,No contesta ,Marcos,,C
+216,1155553848,23-01-2024,No contesta,Lucía,,B
+217,1155558675,2024/01/31,No contesta ,Lucía,,B
+218,11-5555-7045,25-01-2024,Error,Pedro,error,A
+219,11-5555-6907,2024/01/25,Error,,,A
+220,+54 11 5555 2655,19-01-2024,No contesta,Marcos,,B
+221,11-5555-8475,2024-01-30,Contactado ,Marcos,error,C
+222,,2024/01/29,Fuera de servicio,Marcos,,B
+223,11 55556467,2024-01-31,No contesta ,Ana,error,A
+224,1155551211,2024/01/05,No contesta,Juan,,B
+225,+54 11 5555 3475,2024/01/01,Fuera de servicio,,error,A
+226,+54 11 5555 5031,2024/01/02,Error,Ana,error,B
+227,11 55553246,22-01-2024,Contactado ,Marcos,,A
+228,,13-01-2024,Contactado ,Juan,,A
+229,+54 11 5555 6037,2024/01/07,No contesta,Pedro,1548,B
+230,1155558140,2024-01-06,Contactado ,Marcos,error,B
+231,+54 11 5555 7946,04-01-2024,No contesta ,Lucía,1864,B
+232,,2024-13-20,No contesta ,Ana,,A
+233,11-5555-6859,2024-13-11,Fuera de servicio,Ana,,C
+234,11 55559576,2024-01-25,Contactado,Pedro,error,C
+235,11 55557356,29-01-2024,No contesta ,Pedro,,A
+236,11 55554124,2024-13-14,No contesta,Lucía,error,C
+237,11-5555-4882,2024/01/23,Fuera de servicio,Lucía,error,C
+238,1155553316,23-01-2024,No contesta,Juan,,B
+239,11-5555-4808,2024-01-27,Fuera de servicio,Marcos,,A
+240,11 55557244,2024/01/07,Contactado,Lucía,,C
+241,+54 11 5555 5830,2024/01/12,No contesta,Juan,,C
+242,+54 11 5555 2116,13-01-2024,Fuera de servicio,Pedro,error,A
+243,,20-01-2024,Error,Lucía,,A
+244,11 55556791,15-01-2024,No contesta,Lucía,,B
+245,+54 11 5555 8695,2024/01/05,No contesta ,Pedro,,B
+246,11-5555-1744,28-01-2024,No contesta ,Juan,,C
+247,11 55556827,14-01-2024,Fuera de servicio,,1955,A
+248,+54 11 5555 5581,2024-13-18,Contactado ,Ana,,B
+249,,22-01-2024,Contactado ,,1812,C
+250,+54 11 5555 4192,2024/01/02,No contesta ,,,B
+251,+54 11 5555 1482,2024-13-13,Contactado ,Ana,1762,C
+252,1155556622,2024-13-24,No contesta ,,,A
+253,11 55553180,01-01-2024,No contesta,Juan,error,C
+254,1155556393,2024-13-02,Error,Lucía,1707,A
+255,1155552161,2024-01-02,Contactado ,Ana,error,B
+256,11 55555322,09-01-2024,No contesta,Juan,,C
+257,11 55558917,2024/01/11,Contactado ,Marcos,error,A
+258,,03-01-2024,No contesta,,,A
+259,+54 11 5555 6632,18-01-2024,Fuera de servicio,Juan,1848,C
+260,1155556864,05-01-2024,Error,Juan,1324,C
+261,1155553992,2024-13-14,Contactado,Marcos,,A
+262,,31-01-2024,Contactado ,Juan,,A
+263,11 55558415,2024/01/14,No contesta ,Pedro,,B
+264,+54 11 5555 7524,31-01-2024,Error,Marcos,,C
+265,+54 11 5555 2252,05-01-2024,Contactado,Lucía,,B
+266,11 55559328,2024-13-21,Error,Lucía,,C
+267,1155557041,2024-01-17,No contesta ,Juan,,A
+268,11-5555-5009,2024-13-13,Fuera de servicio,Marcos,1151,A
+269,11 55551522,2024/01/31,Contactado,Marcos,,B
+270,+54 11 5555 5636,20-01-2024,No contesta ,,1598,C
+271,11-5555-9787,2024-01-10,Error,Lucía,error,B
+272,1155554255,2024/01/20,Contactado,Pedro,1849,C
+273,11-5555-3364,2024/01/23,Contactado ,Lucía,,B
+274,11 55556131,2024/01/21,No contesta,Pedro,1279,C
+275,11-5555-7630,2024-01-12,Contactado,Juan,,A
+276,+54 11 5555 5954,2024-13-12,Contactado,Pedro,,A
+277,,2024-13-09,No contesta ,Lucía,,C
+278,1155556044,2024-13-21,Contactado ,Lucía,1701,B
+279,11-5555-5419,2024-13-16,No contesta,Juan,1794,B
+280,1155554928,2024-01-06,Contactado ,,,B
+281,11 55552342,2024-13-17,Fuera de servicio,Marcos,error,B
+282,11 55551371,2024-01-03,Error,Ana,,B
+283,+54 11 5555 5800,2024/01/12,Error,Marcos,1489,B
+284,11-5555-5270,2024/01/29,Contactado,Pedro,,C
+285,,2024/01/09,No contesta,Lucía,,B
+286,1155551720,2024-01-04,No contesta ,Ana,1595,B
+287,+54 11 5555 8778,2024-13-01,Fuera de servicio,Marcos,,B
+288,11 55552853,2024-13-11,Contactado,,error,A
+289,11 55551898,20-01-2024,No contesta ,Ana,,B
+290,11 55550171,2024-13-18,Contactado,Pedro,1762,C
+291,+54 11 5555 7634,2024-13-10,No contesta,Ana,1061,C
+292,11 55555620,2024/01/04,Contactado,Marcos,,C
+293,,04-01-2024,Contactado ,Pedro,1166,A
+294,+54 11 5555 4050,2024/01/07,Fuera de servicio,Marcos,,A
+295,11 55553462,08-01-2024,No contesta ,Pedro,,B
+296,,2024/01/30,Contactado ,Pedro,,B
+297,,2024/01/13,Error,,,C
+298,11 55553162,2024-13-14,Contactado ,Lucía,error,B
+299,1155554689,14-01-2024,No contesta ,Marcos,1335,C
+300,,2024-01-05,No contesta ,Marcos,,A
+301,,2024-13-26,No contesta,,,C
+302,+54 11 5555 2883,2024-01-18,Contactado ,Marcos,,A
+303,1155558484,2024-13-03,No contesta ,,error,A
+304,11 55552125,03-01-2024,Error,Ana,,A
+305,,2024-01-14,Fuera de servicio,Lucía,,B
+306,11 55551874,2024-13-06,Contactado,Lucía,,B
+307,11 55555963,2024-01-17,Contactado ,Juan,error,C
+308,11-5555-6927,2024-13-09,No contesta ,Pedro,1252,C
+309,+54 11 5555 2368,2024-01-11,Contactado ,Juan,error,B
+310,+54 11 5555 7597,2024/01/26,Contactado,Pedro,,A
+311,1155552682,2024-01-30,Contactado,,error,A
+312,+54 11 5555 3348,2024/01/14,No contesta ,Ana,1803,A
+313,,2024-13-21,No contesta,,error,A
+314,1155558849,11-01-2024,Error,Ana,error,C
+315,1155557659,2024-13-07,Contactado,,,B
+316,+54 11 5555 1646,2024-13-14,No contesta,Lucía,,B
+317,,24-01-2024,Error,,,C
+318,,2024/01/18,Fuera de servicio,Marcos,error,C
+319,11-5555-2282,2024-13-12,No contesta ,,,B
+320,1155556031,23-01-2024,No contesta ,Juan,error,C
+321,1155552379,17-01-2024,Fuera de servicio,Marcos,,C
+322,+54 11 5555 7890,2024/01/30,Error,Lucía,error,A
+323,11-5555-3839,2024/01/28,Contactado ,Marcos,error,C
+324,1155554860,01-01-2024,No contesta,Ana,,A
+325,,2024/01/06,No contesta,Lucía,error,C
+326,1155559667,25-01-2024,No contesta ,Marcos,1410,C
+327,1155555176,2024-01-07,Contactado,Pedro,,B
+328,,2024-13-10,No contesta,Ana,,A
+329,+54 11 5555 2006,27-01-2024,Error,Marcos,,C
+330,11 55556260,2024/01/16,No contesta ,Ana,error,A
+331,11-5555-2582,2024-01-07,Error,Juan,,C
+332,,2024-01-18,No contesta ,Ana,error,B
+333,+54 11 5555 9740,2024-01-17,No contesta ,Marcos,,B
+334,11 55552622,2024-01-10,Contactado,Marcos,error,B
+335,,2024-01-08,Fuera de servicio,Juan,,B
+336,11-5555-6378,2024/01/24,No contesta ,,,C
+337,11-5555-2959,2024-13-25,Fuera de servicio,Lucía,1448,C
+338,1155552469,07-01-2024,Fuera de servicio,Lucía,,B
+339,+54 11 5555 3311,2024-13-26,Contactado ,Juan,error,C
+340,,2024-13-27,Contactado,,,B
+341,11-5555-6408,2024/01/17,No contesta,Juan,,C
+342,11-5555-8758,2024/01/16,Contactado ,Pedro,error,C
+343,11-5555-1010,2024-13-19,No contesta ,Ana,1660,A
+344,11-5555-2762,26-01-2024,Contactado ,Pedro,1693,A
+345,,14-01-2024,Contactado ,,,B
+346,+54 11 5555 3548,18-01-2024,Fuera de servicio,Pedro,1417,B
+347,,11-01-2024,Error,Marcos,,C
+348,1155557891,2024-01-24,Contactado,Juan,,C
+349,1155559497,11-01-2024,Fuera de servicio,Pedro,1729,A
+350,11-5555-1588,19-01-2024,No contesta ,Lucía,,C
+351,1155556923,05-01-2024,Contactado ,Lucía,,A
+352,,2024-13-01,Error,Ana,1476,C
+353,11 55555050,2024-01-28,Contactado,,1767,C
+354,+54 11 5555 4820,2024/01/19,No contesta ,,error,C
+355,11 55552793,2024/01/10,Contactado,Ana,,C
+356,1155559164,2024-13-02,No contesta ,Lucía,,A
+357,11 55550188,2024-01-13,No contesta,Lucía,error,A
+358,11 55550752,2024-01-14,Fuera de servicio,Juan,1448,C
+359,+54 11 5555 9069,2024-13-18,Error,,,A
+360,11 55552343,2024/01/21,No contesta,Pedro,,B
+361,1155555398,2024/01/30,No contesta ,,1902,A
+362,+54 11 5555 7639,2024/01/05,Contactado ,Marcos,1860,B
+363,1155554815,2024-13-03,Contactado ,Juan,,B
+364,11 55556796,2024/01/22,No contesta ,Ana,,A
+365,,2024-01-30,Contactado,Marcos,,B
+366,11 55558010,2024/01/20,Fuera de servicio,Pedro,,C
+367,,2024/01/11,Contactado ,Marcos,,B
+368,11-5555-1630,2024-01-11,Contactado ,Marcos,1345,B
+369,+54 11 5555 4858,06-01-2024,Contactado ,Lucía,,A
+370,11-5555-8672,2024/01/22,Error,Pedro,,B
+371,1155553199,2024-01-01,Error,Lucía,,A
+372,11-5555-9267,2024-01-11,Contactado,Lucía,error,B
+373,+54 11 5555 8132,2024/01/02,Fuera de servicio,Marcos,error,C
+374,1155552654,09-01-2024,Fuera de servicio,Pedro,1127,B
+375,1155559919,16-01-2024,Contactado,Ana,1038,C
+376,+54 11 5555 7132,2024-01-22,Error,Marcos,,C
+377,,2024-01-10,Contactado,Pedro,1070,A
+378,1155553415,2024/01/16,Contactado,Pedro,1682,A
+379,+54 11 5555 6776,2024-13-13,Contactado ,Lucía,,C
+380,1155559873,2024/01/03,No contesta,Lucía,1001,A
+381,+54 11 5555 9948,2024/01/28,Contactado ,Ana,1702,C
+382,,2024-13-27,No contesta ,Marcos,error,C
+383,+54 11 5555 1661,2024/01/23,Contactado,Lucía,,C
+384,,2024-13-14,Contactado ,Marcos,error,C
+385,,2024-01-19,Error,Marcos,,C
+386,+54 11 5555 9923,2024-13-17,No contesta ,Marcos,1788,A
+387,+54 11 5555 3485,2024-13-12,Fuera de servicio,Pedro,error,A
+388,1155555782,2024/01/26,Error,Juan,,C
+389,1155558565,2024-01-26,No contesta ,Ana,,B
+390,11-5555-6218,15-01-2024,Contactado,,,B
+391,1155557696,2024-01-09,No contesta,Juan,error,C
+392,11 55550206,2024/01/25,Error,Juan,,B
+393,+54 11 5555 4557,2024/01/10,Contactado,Juan,1163,B
+394,,2024/01/02,Fuera de servicio,Marcos,1523,B
+395,11-5555-6714,2024/01/13,No contesta,Marcos,1795,B
+396,+54 11 5555 9487,2024/01/02,Fuera de servicio,Marcos,1885,B
+397,1155553889,27-01-2024,Error,Pedro,,A
+398,11-5555-8846,23-01-2024,Contactado,Marcos,1854,A
+399,11 55550911,2024-01-01,No contesta,Marcos,,B
+400,11-5555-7606,2024-13-09,Contactado,Pedro,,C
+401,,2024-01-25,No contesta,Pedro,,B
+402,11-5555-8182,2024/01/26,No contesta,Marcos,,B
+403,+54 11 5555 6839,2024-13-30,Contactado,,1307,A
+404,11-5555-6561,2024/01/02,No contesta ,Lucía,1782,A
+405,,2024/01/30,Fuera de servicio,Juan,,B
+406,11-5555-4375,2024-01-29,Fuera de servicio,Marcos,1445,A
+407,,2024/01/29,Error,,1332,B
+408,,07-01-2024,Contactado ,Ana,,B
+409,11-5555-3923,2024-01-29,Error,Ana,1859,C
+410,11 55556005,24-01-2024,No contesta ,,,C
+411,11 55557291,2024/01/18,Error,Marcos,,C
+412,+54 11 5555 1291,2024/01/06,Error,Ana,error,C
+413,+54 11 5555 5591,18-01-2024,Fuera de servicio,Lucía,1526,C
+414,11 55554930,2024-13-01,Fuera de servicio,Ana,,C
+415,+54 11 5555 3333,2024-13-21,No contesta ,Juan,,C
+416,1155555728,2024-13-29,Contactado ,Lucía,1002,C
+417,,02-01-2024,Error,Lucía,,A
+418,+54 11 5555 6352,2024-01-04,Fuera de servicio,Juan,,A
+419,11 55555786,2024-01-15,No contesta ,Lucía,,B
+420,11 55555947,13-01-2024,Error,Marcos,error,A
+421,+54 11 5555 1045,2024-01-28,Error,Ana,,A
+422,,2024-13-09,Fuera de servicio,,,B
+423,11 55550584,2024-13-14,No contesta,,,A
+424,1155557134,2024-13-08,No contesta,Ana,error,B
+425,+54 11 5555 2473,2024/01/21,No contesta,Pedro,,B
+426,,2024-13-14,No contesta ,Marcos,,B
+427,11-5555-5203,2024-13-15,Fuera de servicio,Marcos,error,B
+428,11 55550806,2024-13-24,No contesta,Lucía,error,A
+429,+54 11 5555 4510,2024-01-25,Contactado,Lucía,,B
+430,1155558460,2024/01/19,No contesta ,Marcos,1073,C
+431,1155554583,2024-01-26,Contactado,Marcos,,B
+432,1155556448,2024-13-02,Fuera de servicio,Pedro,1870,B
+433,,12-01-2024,No contesta,Pedro,,B
+434,11 55557017,2024-01-21,No contesta ,,error,A
+435,11-5555-6958,2024-01-26,No contesta ,Marcos,1793,B
+436,1155558554,2024-01-01,No contesta,Juan,,B
+437,11-5555-3818,19-01-2024,Error,Pedro,error,B
+438,+54 11 5555 7625,2024-01-18,Contactado,,,A
+439,11-5555-2307,2024-01-23,Contactado,Ana,1928,B
+440,+54 11 5555 1691,2024/01/10,No contesta,Lucía,,A
+441,11-5555-4198,2024/01/15,Contactado,Lucía,,C
+442,,2024-13-20,Fuera de servicio,Ana,error,C
+443,,2024-13-18,Fuera de servicio,,,A
+444,1155551122,20-01-2024,No contesta ,Marcos,1306,C
+445,11-5555-5003,2024-01-27,Contactado ,Marcos,,C
+446,1155558101,12-01-2024,Contactado,,,A
+447,1155554239,18-01-2024,No contesta ,Lucía,error,A
+448,+54 11 5555 5845,2024/01/09,Contactado ,Marcos,error,A
+449,11 55554581,2024-13-06,Contactado ,Juan,1909,C
+450,1155553333,30-01-2024,Fuera de servicio,Juan,error,A
+451,1155558194,29-01-2024,Error,Pedro,,C
+452,,2024-01-22,No contesta ,Ana,,A
+453,,13-01-2024,No contesta,Marcos,,C
+454,11-5555-5506,2024-13-31,Contactado ,Pedro,1688,B
+455,,04-01-2024,No contesta ,Pedro,,B
+456,+54 11 5555 1562,05-01-2024,Contactado,Juan,,C
+457,1155555775,2024-13-11,Fuera de servicio,Pedro,error,C
+458,+54 11 5555 4893,2024-01-27,Error,Ana,1317,C
+459,,2024-13-30,Contactado ,Pedro,error,A
+460,1155556024,2024/01/23,No contesta ,Juan,,C
+461,11-5555-6788,01-01-2024,Contactado ,Juan,,B
+462,11 55550202,2024-01-28,No contesta,,,B
+463,+54 11 5555 8730,2024/01/25,No contesta ,Ana,,C
+464,11 55557903,2024/01/21,Error,Lucía,,B
+465,11-5555-9971,2024-13-21,No contesta,Ana,error,C
+466,11-5555-2979,2024/01/16,No contesta,,1903,A
+467,11-5555-7105,2024-01-21,Fuera de servicio,Pedro,error,B
+468,1155558097,2024-13-15,Error,Pedro,,B
+469,11-5555-5602,23-01-2024,No contesta ,,,C
+470,,2024/01/22,Contactado ,Lucía,1077,C
+471,11-5555-2106,2024-01-15,Error,,1196,A
+472,+54 11 5555 5971,2024/01/14,No contesta,Pedro,1267,B
+473,1155556665,2024/01/19,Fuera de servicio,Marcos,,B
+474,1155555790,25-01-2024,Contactado,Pedro,,B
+475,1155558135,30-01-2024,Contactado ,Lucía,,A
+476,+54 11 5555 9840,2024-13-23,Contactado ,Marcos,error,A
+477,1155556747,2024-01-29,Contactado,Juan,,B
+478,,2024-13-14,Error,,error,B
+479,+54 11 5555 1996,2024-01-05,Contactado ,Ana,,A
+480,1155554615,2024-13-10,No contesta ,Ana,error,C
+481,,2024/01/01,No contesta ,Ana,,B
+482,11 55559180,2024-01-10,No contesta ,,,B
+483,,25-01-2024,No contesta ,Ana,,B
+484,11-5555-9995,2024-01-18,No contesta ,Ana,1910,B
+485,11-5555-5536,26-01-2024,Error,,,C
+486,1155552703,2024-13-05,Contactado ,Pedro,1984,C
+487,11-5555-4123,2024-01-29,No contesta ,Pedro,,B
+488,1155555853,2024-01-20,Contactado,Pedro,,A
+489,11-5555-5903,2024/01/07,Error,Marcos,,C
+490,11-5555-4732,23-01-2024,Error,Marcos,,A
+491,,31-01-2024,Fuera de servicio,Marcos,1561,B
+492,11 55558136,2024-01-10,Contactado ,Pedro,,A
+493,11 55559325,2024-13-12,Error,Pedro,1880,A
+494,+54 11 5555 5609,2024-01-10,Error,Marcos,error,A
+495,11 55558374,2024-01-18,Contactado ,Lucía,,C
+496,1155555120,2024-01-12,Error,Ana,,B
+497,+54 11 5555 4495,11-01-2024,Fuera de servicio,,error,C
+498,,16-01-2024,Contactado ,Juan,1368,A
+499,+54 11 5555 5615,2024/01/03,No contesta ,Ana,error,C
+500,11-5555-2656,2024-01-23,Contactado ,Pedro,,C
+478,,2024-13-14,Error,,error,B
+377,,2024-01-10,Contactado,Pedro,1070,A
+223,11 55556467,2024-01-31,No contesta ,Ana,error,A
+465,11-5555-9971,2024-13-21,No contesta,Ana,error,C
+182,,30-01-2024,Fuera de servicio,Juan,1911,B
+014,,2024-01-14,No contesta,Pedro,1775,A
+007,,2024-01-14,Contactado ,Marcos,error,B
+029,+54 11 5555 2580,2024-13-06,No contesta,Pedro,,B
+142,11 55551668,10-01-2024,No contesta ,Lucía,error,A
+234,11 55559576,2024-01-25,Contactado,Pedro,error,C
+165,11-5555-3863,2024/01/26,No contesta ,,1382,B
+105,11 55551157,2024/01/15,Error,Juan,,B
+073,11-5555-1037,06-01-2024,Contactado ,Pedro,,A
+200,11-5555-1782,2024-13-23,Contactado,,error,B
+160,,26-01-2024,No contesta ,Pedro,error,A
+146,,2024/01/26,No contesta,,,B
+143,11 55554147,17-01-2024,No contesta,,,A
+164,11 55554485,2024-01-17,Error,,error,A
+150,1155556779,2024/01/27,Fuera de servicio,Marcos,,A
+045,11-5555-6636,2024-01-16,Fuera de servicio,Pedro,1456,A
+192,11 55557184,2024/01/04,No contesta ,,,A
+378,1155553415,2024/01/16,Contactado,Pedro,1682,A
+210,11 55556154,2024/01/29,No contesta ,Pedro,1954,C
+059,11-5555-2894,27-01-2024,No contesta,Pedro,,A
+057,11-5555-7412,2024/01/31,No contesta,Lucía,1107,A
