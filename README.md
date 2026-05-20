@@ -1,12 +1,12 @@
 # Contact Center Data Cleaning
 
-## Descripción del proyecto
+## Descripción del proyecto:
 Este proyecto simula un proceso real de **limpieza y análisis de datos operativos** de un Contact Center.  
 El objetivo es mostrar un flujo completo de trabajo en Python y Jupyter Notebook, desde la generación de datos hasta la normalización y exploración visual.
 
 ---
 
-## Objetivos
+## Objetivos:
 - Generar una base operativa con errores intencionales (valores nulos, duplicados, formatos inconsistentes).  
 - Aplicar un script de limpieza (src/cleaning.py) para normalizar los datos.  
 - Realizar un análisis exploratorio (EDA) en notebooks/eda.ipynb  
@@ -14,7 +14,7 @@ El objetivo es mostrar un flujo completo de trabajo en Python y Jupyter Notebook
 
 ---
 
-## Estructura del repositorio
+## Estructura del repositorio:
 
 contact-center-data-cleaning/
 │
@@ -30,8 +30,6 @@ contact-center-data-cleaning/
 │   └── README.md
 │
 └── README.md
-
-Código
 
 ---
 
@@ -50,35 +48,32 @@ Código
 
 git clone https://github.com/rodrigolukojc/contact-center-data-cleaning.git
 
-Instalar dependencias:
+2. Instalar dependencias:
 
 pip install -r requirements.txt
 
-Generar la base sucia:
+3. Generar la base sucia:
 
 python src/script_generar_base_operativa_random.py
 
-Limpiar los datos:
+4. Limpiar los datos:
 
 python src/cleaning.py
 
-Explorar resultados:
+5. Explorar resultados:
 
 Abrir notebooks/eda.ipynb en VS Code o Jupyter.
 
-Resultados esperados
+Resultados esperados:
 
-Reducción de registros inválidos y duplicados.
+-Reducción de registros inválidos y duplicados.
+-Normalización de fechas y teléfonos.
+-Visualización clara de agentes y resultados.
+-Comparación cuantitativa entre base original y CLEAN.
 
-Normalización de fechas y teléfonos.
-
-Visualización clara de agentes y resultados.
-
-Comparación cuantitativa entre base original y CLEAN.
-
-Autor
+Autor:
 Rodrigo Lukojc  
 
 
-Licencia
+Licencia:
 Este proyecto se distribuye bajo la licencia MIT.
